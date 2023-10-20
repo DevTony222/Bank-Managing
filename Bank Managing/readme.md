@@ -1,0 +1,1 @@
+This advanced banking system application introduces inheritance and polymorphism. It defines two account types: SavingsAccount and CheckingAccount, both derived from the base Account class. Each account type has its own specialized behavior, such as applying interest for savings accounts and considering an overdraft limit for checking accounts.
